@@ -1,0 +1,50 @@
+section {background-color: cornflowerblue;
+    
+    background: rgba(21, 21, 21, 0.5);
+}
+.orders{
+    background-color: cornflowerblue;
+    background: rgba(21, 21, 21, 0.5);
+}
+h1{text-decoration: underline;
+	color: orangered;
+    text-align: left;
+}
+body{
+    background-image: url("./images/Shumba_money.jpg");
+    background-color: white;
+  background-position: center;
+    /* background-position: center; */
+    background-size: cover;
+    color: black;
+	scroll-behavior: smooth;}
+
+table{
+    margin: 5%;
+}
+lable{
+    color: black;
+}
+form{
+    justify-content: center;
+}
+.createorder button{
+    width: 320px;
+    height: 50px;
+    margin-top: 15px;
+    align-content: center;
+    margin-bottom: 15px;
+    align-self: center ;
+}
+.createorder button:hover{
+    cursor: pointer;
+}
+button:hover{
+    cursor: pointer;
+}
+img{
+    margin: 0%;
+}
+header{
+    background: rgba(6, 1, 46, 0.5)
+}
